@@ -14,7 +14,7 @@
 - Reggae
 - Disco
 
-![Demo image from localhost](static\Demo.png)
+![Demo image from localhost](static/Demo.png)
 
 Modules required to import:-
 * librosa -0.8.1
